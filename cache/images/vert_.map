@@ -1,14 +1,14 @@
 <img src="cache/images/vert_" border="0" usemap="#cache/images/vert_">
 <map name="cache/images/vert_">
-	<area shape="rect" coords="42,42,58,118" href="index.php?module=Accounts&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=4" alt="Organizations=%d" title="Organizations=%d">
-	<area shape="rect" coords="90,42,106,118" href="index.php?module=Potentials&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=10" alt="Opportunities=%d" title="Opportunities=%d">
-	<area shape="rect" coords="137,42,153,118" href="index.php?module=Contacts&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=7" alt="Contacts=%d" title="Contacts=%d">
-	<area shape="rect" coords="185,42,201,118" href="index.php?module=Leads&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=1" alt="Leads=%d" title="Leads=%d">
-	<area shape="rect" coords="233,80,248,118" href="index.php?module=Quotes&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=16" alt="Quotes=%d" title="Quotes=%d">
-	<area shape="rect" coords="280,80,296,118" href="index.php?module=SalesOrder&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=26" alt="Sales Order=%d" title="Sales Order=%d">
-	<area shape="rect" coords="328,80,343,118" href="index.php?module=PurchaseOrder&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=25" alt="Purchase Order=%d" title="Purchase Order=%d">
-	<area shape="rect" coords="375,80,391,118" href="index.php?module=Invoice&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=21" alt="Invoice=%d" title="Invoice=%d">
-	<area shape="rect" coords="423,87,439,118" href="index.php?module=HelpDesk&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=13" alt="Trouble Tickets=%d" title="Trouble Tickets=%d">
-	<area shape="rect" coords="470,72,486,118" href="index.php?module=Calendar&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=19" alt="Calendar=%d" title="Calendar=%d">
-	<area shape="rect" coords="518,95,534,118" href="index.php?module=Campaigns&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=29" alt="Campaigns=%d" title="Campaigns=%d">
+	<area shape="rect" coords="39,53,55,166" href="index.php?module=Accounts&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=4" alt="客户=%d" title="客户=%d">
+	<area shape="rect" coords="87,53,103,166" href="index.php?module=Potentials&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=10" alt="销售机会=%d" title="销售机会=%d">
+	<area shape="rect" coords="135,53,151,166" href="index.php?module=Contacts&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=7" alt="联系人=%d" title="联系人=%d">
+	<area shape="rect" coords="183,53,199,166" href="index.php?module=Leads&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=1" alt="潜在客户=%d" title="潜在客户=%d">
+	<area shape="rect" coords="231,109,247,166" href="index.php?module=Quotes&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=16" alt="报价单=%d" title="报价单=%d">
+	<area shape="rect" coords="279,109,294,166" href="index.php?module=SalesOrder&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=26" alt="销售订单=%d" title="销售订单=%d">
+	<area shape="rect" coords="326,109,342,166" href="index.php?module=PurchaseOrder&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=25" alt="采购订单=%d" title="采购订单=%d">
+	<area shape="rect" coords="374,109,390,166" href="index.php?module=Invoice&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=21" alt="发货单=%d" title="发货单=%d">
+	<area shape="rect" coords="422,121,438,166" href="index.php?module=HelpDesk&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=13" alt="故障单=%d" title="故障单=%d">
+	<area shape="rect" coords="470,98,486,166" href="index.php?module=Calendar&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=19" alt="日程安排=%d" title="日程安排=%d">
+	<area shape="rect" coords="518,132,534,166" href="index.php?module=Campaigns&action=ListView&from_homepagedb=true&type=dbrd&query=true&owner= Administrator&viewname=29" alt="营销活动=%d" title="营销活动=%d">
 </map>

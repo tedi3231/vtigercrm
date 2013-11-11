@@ -205,7 +205,8 @@ function export($type){
 	$header .= "\"\r\n";
 	
 	/** Output header information */
-	echo $header;
+	//echo $header;
+	echo iconv("UTF-8","gbk",$header);
 
 	$column_list = implode(",",array_values($fields_array));
 
@@ -229,7 +230,8 @@ function export($type){
 		$line .= "\"\r\n";
 		
 		/** Output each row information */
-		echo $line;
+		//echo $line;
+		echo iconv("UTF-8","gbk",$line);
 	}
 	$log->debug("Exiting export method ...");
 	return true;
@@ -239,6 +241,7 @@ function export($type){
 $moduleName = $_REQUEST['module'];
 $moduleName = getTranslatedString($moduleName, $moduleName);
 $moduleName = str_replace(" ","_",$moduleName);
+$moduleName = iconv("UTF-8","gbk",$moduleName);
 header("Content-Disposition:attachment;filename=$moduleName.csv");
 header("Content-Type:text/csv;charset=UTF-8");
 header("Expires: Mon, 26 Jul 1997 05:00:00 GMT" );

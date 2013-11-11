@@ -19,7 +19,7 @@ DEFINE("FF_ARIAL",'Arial');
 DEFINE("FF_GEORGIA",'Georgia');
 DEFINE("FF_TREBUCHE",'Trebuc');
 DEFINE("FF_DEJAVUSAN",'DejaVuSans');
-
+DEFINE("FF_DROIDSANSFALLBACK","Droid Sans Fallback");
 // Chinese font
 DEFINE("FF_SIMSUN",'Simsun');
 DEFINE("FF_CHINESE",'Chinese');
@@ -39,7 +39,8 @@ function calculate_font_name($locale)
 
 	switch($locale)
 	{
-		case 'cn_zh':
+		//case 'cn_zh':
+	    case 'zh_cn':
 			$log->debug("Exiting calculate_font_name method ...");
 			return FF_SIMSUN;
 		case 'tw_zh':
